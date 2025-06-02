@@ -1,4 +1,4 @@
-# This readme and the code were contributed by Timothee Masquelier  
+This readme and the code were contributed by Timothee Masquelier  
 timothee.masquelier@alum.mit.edu  
 Sept 10th 2009
 
